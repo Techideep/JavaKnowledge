@@ -25,8 +25,8 @@ public class FileStorageToS3 {
 
 
         AWSCredentials credentials = new BasicAWSCredentials(
-        "AKIAIDCBD3X65SY7V54A",
-"77nX325dRwP+qNQRbUuBYsFqFRO5EYh01+B8/Od1"
+        "",
+""
         );
 
         AmazonS3 s3client = AmazonS3ClientBuilder
