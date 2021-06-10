@@ -31,7 +31,9 @@ com\pgp\SimplePgpUtilMain.class
 com\pgp\PGPFileProcessor.class
 com\corejavarandom\Chocolate.class
 com\expedia\Result.class
+com\leetcode\may\NonDecreasingArray.class
 com\game\Player.class
+com\leetcode\may\RunningSum.class
 com\expedia\SinglyLinkedListNode.class
 com\ericsson\Question11.class
 com\random\CutomizedRandomNumberGenerator.class
@@ -47,6 +49,7 @@ com\aws\FileStorageToS3.class
 com\serialization\Dog.class
 com\game\Cricket.class
 com\ericsson\Question17.class
+com\leetcode\practice\LetterCombinations_17.class
 com\ericsson\Question6.class
 com\paytm\Solution.class
 com\expedia\SinglyLinkedListPrintHelper.class
